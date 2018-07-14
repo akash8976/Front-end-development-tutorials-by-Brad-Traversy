@@ -1,0 +1,161 @@
+/* facebook.html */
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  margin-top: -2px;
+  margin-left: -100px;
+  margin-right: -100px;
+  margin-bottom: 0px;
+}
+
+.navbar-default{
+ background-color: #3B5998;
+ min-height: 90px;
+}
+
+
+.navbar-brand img{
+   width: 210px;
+   padding-top: 20px;
+   padding-left: 45px;
+   padding-bottom: 0px;
+   margin-left: 40px;
+}
+
+.showcase-left {
+   margin-top: 45px;
+   font-size: 20px;
+}
+
+.showcase-left p{
+  padding-left: 65px;
+  line-height: 1;
+  font-weight: bold;
+  color: #0e385f;
+}
+
+.showcase-left img{
+  padding-left: 65px;
+  background-attachment: fixed;
+}
+
+section{
+  margin-top: -18px;
+  background-color: #edf0f5;
+  min-height: 800px;
+}
+
+.showcase-right  #para1{
+  font-size: 38px;
+  margin-top: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-left: -20px;
+}
+
+.showcase-right #para1::first-letter{
+  font-size: 45px;
+}
+
+.showcase-right #para2{
+    font-size: 20px;
+    margin-left: -18px;
+    margin-top: -12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* comment */
